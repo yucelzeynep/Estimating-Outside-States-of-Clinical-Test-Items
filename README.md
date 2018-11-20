@@ -11,7 +11,7 @@ https://yucelzeynep.github.io/pub/yucel13aninference.pdf
 
 Due to privacy regulations, the dataset is **not** released as part of this repository. 
 
-The implementation is done in Matlab. There are no specific dependencies, however the freely available PRTools toolbox 
+The implementation is done in Matlab7. There are no specific dependencies, however the freely available PRTools toolbox 
 is necessary for implementations of several pattern recognition algorithms. 
 
 P.W. Duin, P. Juszczak, P. Paclik, E. Pekalska, D. de Ridder, D.M.J. Tax, S. Verzakov
