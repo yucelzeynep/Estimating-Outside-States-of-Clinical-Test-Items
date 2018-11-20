@@ -9,7 +9,7 @@ Management Information Systems, ACM Transactions on, vol.4, no.3, pp.13, August 
 Please check the following link for a preprint:
 https://yucelzeynep.github.io/pub/yucel13aninference.pdf
 
-Due to rpivacy regulations, the dataset is not released in this repository. 
+Due to privacy regulations, the dataset is **not** released as part of this repository. 
 
 The implementation is done in Matlab. there are not specific dependencies, however the freely available PRTools toolbox 
 is necessary for implementations of several pattern recognition algorithms. 
